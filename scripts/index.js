@@ -265,7 +265,7 @@ window.onload = () => {
         document.body.innerHTML = ''
         
         let title = document.createElement('h2')
-        title.appendChild(document.createTextNode('Wilson Gramer\'s Punnett Square Maker'))
+        title.appendChild(document.createTextNode('Punnett'))
         document.body.appendChild(title)
 
         let inputDirectionsLabel = document.createElement('small')
